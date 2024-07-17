@@ -1,0 +1,7 @@
+google-search-results
+openai
+langchain
+python-dotenv
+streamlit
+faiss-cpu
+tiktoken
